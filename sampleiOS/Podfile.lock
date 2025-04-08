@@ -1,0 +1,38 @@
+PODS:
+  - ReachabilitySwift (5.2.4)
+  - SFmeetRTCiOS (1.0.0):
+    - SFmeetWebRTC (= 1.0.0)
+  - SFmeetWebRTC (1.0.0)
+  - Socket.IO-Client-Swift (16.1.1):
+    - Starscream (~> 4.0.8)
+  - Starscream (4.0.8)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+
+DEPENDENCIES:
+  - ReachabilitySwift
+  - SFmeetRTCiOS
+  - Socket.IO-Client-Swift (~> 16.1.1)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - SFmeetRTCiOS
+    - SFmeetWebRTC
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+  SFmeetRTCiOS: dc4a93d1b29d7e935bdbf72902e65a6834bc339d
+  SFmeetWebRTC: 3c27091be45c38f35bcafde9a6a63e26ba9579e2
+  Socket.IO-Client-Swift: 3614bea82ba005df1c2ff01154f4004993e05ad7
+  Starscream: 19b5533ddb925208db698f0ac508a100b884a1b9
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+
+PODFILE CHECKSUM: 50235439b5ed7793185a5911ca5a9ab116f158e5
+
+COCOAPODS: 1.16.2
