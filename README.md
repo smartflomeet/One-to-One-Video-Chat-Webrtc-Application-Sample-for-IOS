@@ -21,7 +21,6 @@ Flexibility: The app provides a unique "try" mode to use SmartfloMeet's hosted A
 
 * Clone or download this Repository [https://github.com/smartflomeet/One-to-One-Video-Chat-Webrtc-Application-Sample-for-IOS.git] 
 
-
 #### 1.1.3 Test Application Server
 
 You need to set up an Application Server to provision Web Service API for your iOS Application to enable Video Session. 
@@ -31,7 +30,6 @@ To help you to try our iOS Application quickly, without having to set up Applcia
 Our Application Server restricts a single Session Duations to 10 minutes, and allows 1 moderator and not more than 1 Participant in a Session.
 
 Once you tried SmartfloMeet iOS Sample Application, you may need to set up your own  Application Server and verify your Application to work with your Application Server.  Refer to point 2 for more details on this.
-
 
 #### 1.1.4 Configure IOS Client 
 
@@ -52,7 +50,6 @@ let kAppId    = ""
 let kAppkey   = ""
 
 ```
- 
 ### 1.2 Test
 
 #### 1.2.1 Open the App
@@ -84,5 +81,3 @@ This Sample Application uses SmartfloMeet iOS Toolkit to communicate with Smartf
 
 * Documentation: https://doc.smartflomeet.ttns.in/docs/references/sdks/video-sdk/ios-sdk/index
 * Download Toolkit: https://doc.smartflomeet.ttns.in/developer/video-api/client-api/ios-toolkit/
-
-
